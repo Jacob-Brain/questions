@@ -1,0 +1,108 @@
+{
+  "lectures": [
+    {
+      "lectureID":1,
+      "lectureName": "Maths lecture",
+      "lectureIconURL": "https://img.freepik.com/free-vector/cartoon-maths-elements-background_52683-9162.jpg?w=2000",
+      "lectureDurationMinutes": 60,
+      "topics": [1, 2, 3]
+    },
+    {
+      "lectureID":2,
+      "lectureName": "English lecture",
+      "lectureIconURL": "https://img.freepik.com/free-photo/english-british-england-language-education-concept_53876-133735.jpg",
+      "lectureDurationMinutes": 80,
+      "topics": [4, 5, 6]
+    },
+    {
+      "lectureID":3,
+      "lectureName": "Science lecture",
+      "lectureDurationMinutes": 180,
+      "lectureIconURL": "https://img.freepik.com/free-vector/hand-drawn-science-education-background_23-2148499325.jpg?w=2000",
+      "topics": [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    }
+  ],
+
+  "topics": [
+    {
+      "topicID": 1,
+      "topicName": "Arithmetic"
+    },
+    {
+      "topicID": 2,
+      "topicName": "Algebra"
+    },
+    {
+      "topicID": 3,
+      "topicName": "Statistics"
+    },
+    {
+      "topicID": 4,
+      "topicName": "Reading"
+    },
+    {
+      "topicID": 5,
+      "topicName": "Vocabulary"
+    },
+    {
+      "topicID": 6,
+      "topicName": "Comprehension"
+    },
+    {
+      "topicID": 7,
+      "topicName": "Chemistry"
+    },
+    {
+      "topicID": 8,
+      "topicName": "Biology"
+    },
+    {
+      "topicID": 9,
+      "topicName": "Physics"
+    },
+    {
+      "topicID": 10,
+      "topicName": "Anatomy"
+    },
+    {
+      "topicID": 11,
+      "topicName": "Physiology"
+    },
+    {
+      "topicID": 12,
+      "topicName": "Diseases"
+    },
+    {
+      "topicID": 13,
+      "topicName": "Ecology"
+    },
+    {
+      "topicID": 14,
+      "topicName": "Evolution"
+    },
+    {
+      "topicID": 15,
+      "topicName": "Genetics"
+    },
+    {
+      "topicID": 16,
+      "topicName": "Microbiology"
+    },
+    {
+      "topicID": 17,
+      "topicName": "Neuroscience"
+    },
+    {
+      "topicID": 18,
+      "topicName": "Space"
+    },
+    {
+      "topicID": 19,
+      "topicName": "Astronomy"
+    },
+    {
+      "topicID": 20,
+      "topicName": "Medicine"
+    }
+  ]
+}
